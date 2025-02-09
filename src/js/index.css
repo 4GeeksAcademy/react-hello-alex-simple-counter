@@ -1,0 +1,19 @@
+.bigCounter{
+
+    margin: 20px;
+    display: flex;
+    height: 150px;
+    width: 800px;
+    border-radius: 5px;
+    background: black;
+}
+
+.Seconds {
+    margin: auto;
+    
+}
+
+.Number {
+    color:white;
+    font-size: 6em;
+}
